@@ -1,0 +1,19 @@
+{
+    "name": "zaynasheff/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zaynasheff\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Zaynashev",
+            "email": "zaynasheff@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
